@@ -12,9 +12,9 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>historic needit table</mobile_title>
+        <mobile_title>Computer</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_58872_needit_historic_needit_table</name>
+        <name>imp_computer</name>
         <order>1100</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
@@ -22,21 +22,21 @@
         <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-09-28 05:33:27</sys_created_on>
+        <sys_created_on>2018-10-03 09:47:10</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>73c2bfb5db3023006fd5924bdb96193a</sys_id>
+        <sys_id>cddc1a2fdb3023006fd5924bdb9619b1</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>historic needit table</sys_name>
+        <sys_name>Computer</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_app_module_73c2bfb5db3023006fd5924bdb96193a</sys_update_name>
+        <sys_update_name>sys_app_module_cddc1a2fdb3023006fd5924bdb9619b1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-28 05:33:27</sys_updated_on>
+        <sys_updated_on>2018-10-03 09:47:10</sys_updated_on>
         <timeline_page/>
-        <title>historic needit table</title>
+        <title>Computer</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

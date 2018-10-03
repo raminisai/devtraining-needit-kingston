@@ -11,9 +11,9 @@
         <delete_access>false</delete_access>
         <extension_model/>
         <is_extendable>false</is_extendable>
-        <label>historic needit table</label>
+        <label>needitimportdata.csv (Uploaded)</label>
         <live_feed_enabled>false</live_feed_enabled>
-        <name>x_58872_needit_historic_needit_table</name>
+        <name>x_58872_needit_import_hisoric_needit_data</name>
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
@@ -22,16 +22,16 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-09-28 05:33:26</sys_created_on>
-        <sys_id>e7c27fb5db3023006fd5924bdb9619bb</sys_id>
+        <sys_created_on>2018-10-03 09:48:56</sys_created_on>
+        <sys_id>cb3d5e2fdb3023006fd5924bdb961922</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Needit Historic Needit Table</sys_name>
+        <sys_name>Needit Import Hisoric Needit Data</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_db_object_e7c27fb5db3023006fd5924bdb9619bb</sys_update_name>
+        <sys_update_name>sys_db_object_cb3d5e2fdb3023006fd5924bdb961922</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-09-28 05:33:26</sys_updated_on>
+        <sys_updated_on>2018-10-03 09:48:56</sys_updated_on>
         <update_access>false</update_access>
         <user_role/>
         <ws_access>true</ws_access>
